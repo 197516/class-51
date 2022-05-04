@@ -1,0 +1,36 @@
+ body {
+  background-color:#2a5fd3;
+  border:2px dashed #000;
+ }
+ 
+ h1 {
+  color:#000   
+ }
+
+ p {
+  color:red
+ }
+
+ h3 {
+  color:#848482
+ }
+
+ .header{
+   
+   display: flex;
+   background-color:#20db43 ;
+   align-content : center ;
+   
+ }
+
+ .footer{
+     display:flex;
+     flex-direction: column;
+     justify-content: evenly;
+     margin-left:5%
+    
+ }
+
+ .content{
+   margin-left:5%
+ }
